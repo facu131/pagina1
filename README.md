@@ -1,2 +1,2 @@
 # pagina1
-proyecto final
+este proyecto consiste en la creacion de una pagina web que permita encontrar informacion sobre causas y consecuencias sobre el cambio climatico, la contaminacion y el ambiente, tambien adicionalmente en esta pagina web se podran realizar donaciones monetarias que permitan ayudar a distintas causas sobre el cambio climatico, la gente aprendera a como evitarlo y como ayudar, para donar se pedira: el nombre de la persona, cuanto va a donar y porque razon o a que causa apoya para dona, ej: contaminacion de los mares, bosques, playas etc.
